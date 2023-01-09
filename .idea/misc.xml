@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/TriTasbih2/app/src/main/res/layout/activity_2.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/DELL/Desktop/TriTasbih2/app/src/main/res/layout/activity_main.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_2.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_al.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_alh.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_as.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_la.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_saw.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_sub.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/android project/TriTasbih2/app/src/main/res/layout/activity_won.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/SAKIB75/AndroidStudioProjects/TriTasbih2/app/src/main/res/layout/activity_2.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/SAKIB75/AndroidStudioProjects/TriTasbih2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SAKIB75/AndroidStudioProjects/TriTasbih2/app/src/main/res/layout/activity_main2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SAKIB75/Desktop/TriTasbih2/app/src/main/res/layout/activity_2.xml" value="0.2015625" />
+        <entry key="..\:/Users/SAKIB75/Desktop/TriTasbih2/app/src/main/res/layout/activity_destination.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/SAKIB75/Desktop/TriTasbih2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
